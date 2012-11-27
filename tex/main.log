@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.22)  28 OCT 2012 22:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.22)  26 NOV 2012 21:21
 entering extended mode
-**C:/Documents*and*Settings/amcelhinney/My*Documents/GitHub/MCS507ProjectTwo/te
-x/main.tex
+**C:/Documents*and*Settings/amcelhinney/My*Documents/GitHub/MCS507HW/MCS*507*Ho
+mework*4/MCS507--Project-3/tex/main.tex
 
-("C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/te
-x/main.tex"
+("C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507 Ho
+mework 4/MCS507--Project-3/tex/main.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -251,61 +251,10 @@ Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 453.
 ("C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\main.aux"
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\main.aux"
 
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `Example Data' multiply defined.
-
-
-LaTeX Warning: Label `sub:methoda' multiply defined.
-
-
-LaTeX Warning: Label `lst:expected_times' multiply defined.
-
-
-LaTeX Warning: Label `Example Data' multiply defined.
-
-
-LaTeX Warning: Label `lst:expected_times' multiply defined.
-
-
-LaTeX Warning: Label `sec: First' multiply defined.
-
-
-LaTeX Warning: Label `sub:methoda' multiply defined.
-
-
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `Example Data' multiply defined.
-
-
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `Example Data' multiply defined.
-
-
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `Example Data' multiply defined.
-
-
-LaTeX Warning: Label `2nd' multiply defined.
-
-
-LaTeX Warning: Label `table:nonlin' multiply defined.
+LaTeX Warning: Label `sec: Main Problem' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -335,172 +284,60 @@ LaTeX Font Info:    ... okay on input line 49.
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks24
 )
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\include/title.tex"
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\include/title.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 7--17
 
  []
 
 )
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\include/assignment1.tex"
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [1
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\include/assignment1.tex" [1
 
 {C:/Documents and Settings/All Users/Application Data/MiKTeX/2.9/pdftex/config/
-pdftex.map}]
-<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/tex
-/include/example_data.png, id=13, 1078.9911pt x 876.6351pt>
-File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/example_data.png Graphic file (type png)
+pdftex.map}])
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\include/assignment2.tex"
+<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507 Hom
+ework 4/MCS507--Project-3/tex/include/3_groups.png, id=13, 995.72pt x 972.63374
+pt>
+File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 50
+7 Homework 4/MCS507--Project-3/tex/include/3_groups.png Graphic file (type png)
 
-<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/example_data.png>
+
+<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507
+ Homework 4/MCS507--Project-3/tex/include/3_groups.png>
 Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
-Hub/MCS507ProjectTwo/tex/include/example_data.png used on input line 99.
-(pdftex.def)             Requested size: 469.75499pt x 381.65422pt.
- [2] [3 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507Projec
-tTwo/tex/include/example_data.png>]
-<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/tex
-/include/example_data_fit.png, id=26, 1078.9911pt x 876.6351pt>
-File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/example_data_fit.png Graphic file (type png)
-
-<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/example_data_fit.png>
-Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
-Hub/MCS507ProjectTwo/tex/include/example_data_fit.png used on input line 136.
-(pdftex.def)             Requested size: 469.75499pt x 381.65422pt.
-)
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\include/assignment2.tex" [4 <C:/Documents and Settings/amcelhinney/My Documen
-ts/GitHub/MCS507ProjectTwo/tex/include/example_data_fit.png>] [5]
-<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/tex
-/include/example_data_poly_fit.png, id=34, 1078.9911pt x 876.6351pt>
-File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/example_data_poly_fit.png Graphic file (type png)
-
-<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/example_data_poly_fit.png>
-Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
-Hub/MCS507ProjectTwo/tex/include/example_data_poly_fit.png used on input line 5
-1.
-(pdftex.def)             Requested size: 469.75499pt x 381.65422pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
-
-("C:\Program Files\MiKTeX\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
- [6 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/example_data_poly_fit.png>])
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\include/assignment3.tex" [7]
-<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/tex
-/include/scatter.png, id=43, 578.16pt x 433.62pt>
-File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/scatter.png Graphic file (type png)
-
-<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/scatter.png>
-Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
-Hub/MCS507ProjectTwo/tex/include/scatter.png used on input line 69.
-(pdftex.def)             Requested size: 469.75499pt x 352.31538pt.
- [8] [9 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507Projec
-tTwo/tex/include/scatter.png>]
-<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/tex
-/include/variable_importance.png, id=51, 639.38875pt x 477.785pt>
-File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/variable_importance.png Graphic file (type png)
-
-<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/variable_importance.png>
-Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
-Hub/MCS507ProjectTwo/tex/include/variable_importance.png used on input line 144
-.
-(pdftex.def)             Requested size: 289.07999pt x 216.01462pt.
- [10 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/variable_importance.png>]
-<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo/tex
-/include/ols_output.png, id=55, 733.74126pt x 568.1225pt>
-File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/ols_output.png Graphic file (type png)
-
-<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTwo
-/tex/include/ols_output.png>
-Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
-Hub/MCS507ProjectTwo/tex/include/ols_output.png used on input line 160.
-(pdftex.def)             Requested size: 469.75499pt x 363.72717pt.
- [11 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507ProjectTw
-o/tex/include/ols_output.png>])
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\include/conclusion.tex")
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\include/bibliography.tex" [12]
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-
- []
-
-) [13]
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507ProjectTwo\te
-x\main.aux")
+Hub/MCS507HW/MCS 507 Homework 4/MCS507--Project-3/tex/include/3_groups.png used
+ on input line 16.
+(pdftex.def)             Requested size: 325.215pt x 317.67538pt.
+ [2]) [3 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MC
+S 507 Homework 4/MCS507--Project-3/tex/include/3_groups.png>]
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\main.aux")
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4425 strings out of 494049
- 65146 string characters out of 3150022
- 259226 words of memory out of 3000000
- 7644 multiletter control sequences out of 15000+200000
- 8521 words of font info for 31 fonts, out of 3000000 for 9000
+ 4089 strings out of 494049
+ 59499 string characters out of 3150022
+ 152226 words of memory out of 3000000
+ 7326 multiletter control sequences out of 15000+200000
+ 6246 words of font info for 23 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,10n,40p,781b,1516s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,6n,40p,1030b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Prog
-ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmti10.pfb>
-Output written on main.pdf (13 pages, 505211 bytes).
+sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+s10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (3 pages, 152936 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
