@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.22)  26 NOV 2012 21:21
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.22)  27 NOV 2012 16:59
 entering extended mode
 **C:/Documents*and*Settings/amcelhinney/My*Documents/GitHub/MCS507HW/MCS*507*Ho
 mework*4/MCS507--Project-3/tex/main.tex
@@ -256,6 +256,33 @@ mework 4\MCS507--Project-3\tex\main.aux"
 
 LaTeX Warning: Label `sec: Main Problem' multiply defined.
 
+
+LaTeX Warning: Label `2nd' multiply defined.
+
+
+LaTeX Warning: Label `2nd' multiply defined.
+
+
+LaTeX Warning: Label `Example Data' multiply defined.
+
+
+LaTeX Warning: Label `2nd' multiply defined.
+
+
+LaTeX Warning: Label `2nd' multiply defined.
+
+
+LaTeX Warning: Label `2nd' multiply defined.
+
+
+LaTeX Warning: Label `Example Data' multiply defined.
+
+
+LaTeX Warning: Label `2nd' multiply defined.
+
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
@@ -295,12 +322,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--17
 mework 4\MCS507--Project-3\tex\include/assignment1.tex" [1
 
 {C:/Documents and Settings/All Users/Application Data/MiKTeX/2.9/pdftex/config/
-pdftex.map}])
-("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
-mework 4\MCS507--Project-3\tex\include/assignment2.tex"
+pdftex.map}]
 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507 Hom
-ework 4/MCS507--Project-3/tex/include/3_groups.png, id=13, 995.72pt x 972.63374
-pt>
+ework 4/MCS507--Project-3/tex/include/k-fold_cv.png, id=13, 607.26875pt x 173.6
+4874pt>
+File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 50
+7 Homework 4/MCS507--Project-3/tex/include/k-fold_cv.png Graphic file (type png
+)
+
+<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507
+ Homework 4/MCS507--Project-3/tex/include/k-fold_cv.png>
+Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
+Hub/MCS507HW/MCS 507 Homework 4/MCS507--Project-3/tex/include/k-fold_cv.png use
+d on input line 76.
+(pdftex.def)             Requested size: 325.215pt x 92.99786pt.
+)
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\include/assignment2.tex" [2 <C:/Documents and Se
+ttings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507 Homework 4/MCS507--Proj
+ect-3/tex/include/k-fold_cv.png>] [3] [4]
+<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507 Hom
+ework 4/MCS507--Project-3/tex/include/3_groups.png, id=25, 1081.8819pt x 876.63
+51pt>
 File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 50
 7 Homework 4/MCS507--Project-3/tex/include/3_groups.png Graphic file (type png)
 
@@ -309,10 +352,74 @@ File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 50
  Homework 4/MCS507--Project-3/tex/include/3_groups.png>
 Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
 Hub/MCS507HW/MCS 507 Homework 4/MCS507--Project-3/tex/include/3_groups.png used
- on input line 16.
-(pdftex.def)             Requested size: 325.215pt x 317.67538pt.
- [2]) [3 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MC
-S 507 Homework 4/MCS507--Project-3/tex/include/3_groups.png>]
+ on input line 152.
+(pdftex.def)             Requested size: 469.75499pt x 380.63762pt.
+ [5] [6 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS
+ 507 Homework 4/MCS507--Project-3/tex/include/3_groups.png>]
+<C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507 Hom
+ework 4/MCS507--Project-3/tex/include/3_groups_mis.png, id=34, 1081.8819pt x 87
+6.6351pt>
+File: C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 50
+7 Homework 4/MCS507--Project-3/tex/include/3_groups_mis.png Graphic file (type 
+png)
+
+<use C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507
+ Homework 4/MCS507--Project-3/tex/include/3_groups_mis.png>
+Package pdftex.def Info: C:/Documents and Settings/amcelhinney/My Documents/Git
+Hub/MCS507HW/MCS 507 Homework 4/MCS507--Project-3/tex/include/3_groups_mis.png 
+used on input line 221.
+(pdftex.def)             Requested size: 469.75499pt x 380.63762pt.
+ [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 232.
+
+
+("C:\Program Files\MiKTeX\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 232.
+ [8 <C:/Documents and Settings/amcelhinney/My Documents/GitHub/MCS507HW/MCS 507
+ Homework 4/MCS507--Project-3/tex/include/3_groups_mis.png>])
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\include/conclusion.tex")
+("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
+mework 4\MCS507--Project-3\tex\include/bibliography.tex" [9]
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Overfull \hbox (85.76878pt too wide) in paragraph at lines 17--18
+[]  \OT1/cmr/m/n/10 Hastie & Tibshirani."Cross-validation and boot-strap". Re-t
+rieved from www-stat.stanford.edu/[]tibs/sta306b/cvwrong.pdf,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+) [10]
 ("C:\Documents and Settings\amcelhinney\My Documents\GitHub\MCS507HW\MCS 507 Ho
 mework 4\MCS507--Project-3\tex\main.aux")
 
@@ -320,24 +427,26 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4089 strings out of 494049
- 59499 string characters out of 3150022
- 152226 words of memory out of 3000000
- 7326 multiletter control sequences out of 15000+200000
- 6246 words of font info for 23 fonts, out of 3000000 for 9000
+ 4349 strings out of 494049
+ 63828 string characters out of 3150022
+ 296226 words of memory out of 3000000
+ 7571 multiletter control sequences out of 15000+200000
+ 8521 words of font info for 31 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,6n,40p,1030b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,40p,1029b,1582s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-s10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
-les/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (3 pages, 152936 bytes).
+sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (10 pages, 566990 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
